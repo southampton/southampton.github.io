@@ -1,1 +1,6 @@
 theme: jekyll-theme-architect
+title: Southampton
+github:
+    cortex_url: "https://github.com/southampton/cortex"
+    cortex_text: "View Cortex on"
+    owner_url: "https://github.com/southampton"
